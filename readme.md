@@ -13,12 +13,12 @@ npm run dev
 
 Open http://localhost:5173 in your browser to view the canvas.
 
-Tech Stack
+# Tech Stack
 Core: React 19 + Vite
 3D Graphics: Three.js (@react-three/fiber & @react-three/drei)
 Styling: Tailwind CSS
 
-Available Scripts
+# Available Scripts
 npm run dev - Launch local development server.
 npm run build - Compile optimized production build.
 npm run preview - Preview the production build locally.
