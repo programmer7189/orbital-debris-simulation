@@ -26,7 +26,7 @@ Open [http://localhost:5173](https://www.google.com/search?q=http://localhost:51
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Core:** React 19 + Vite
 * **3D Graphics:** Three.js (`@react-three/fiber` & `@react-three/drei`)
